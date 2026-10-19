@@ -1,0 +1,6 @@
+@BlumeBee_HostAddress = http://localhost:5215
+
+GET {{BlumeBee_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
